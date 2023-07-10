@@ -18,21 +18,21 @@
 @import url('');
 
 :root {
-  --eminence-bg: url();
-  --eminence-home-icon: url();
-  --eminence-color1: #e8c1d0;
-  --eminence-color2: #5ba0fb;
-  --eminence-color3: #e8c1d0;
-  --eminence-color4: #5ba0fb;
-  --eminence-color5: #ecd3e6;
-  --eminence-color6: #ecd3e6;
+  --leahkitties-bg: url(https://github.com/Tdvds/leahkittie-discord/blob/main/leahkittiesbg.jpg);
+  --leahkitties-home-icon: url(https://github.com/Tdvds/leahkittie-discord/blob/main/leahkittieHI.jpg);
+  --leahkitties-color1: #e8c1d0;
+  --leahkitties-color2: #5ba0fb;
+  --leahkitties-color3: #e8c1d0;
+  --leahkitties-color4: #5ba0fb;
+  --leahkitties-color5: #ecd3e6;
+  --leahkitties-color6: #ecd3e6;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
   --watermark-filter-hue-rotate: 150deg;
   --watermark-filter-brightness: 100%;
   --watermark-filter-contrast: 200%;
-  --eminence-emoji-picker-color: 150deg;
+  --leahkitties-emoji-picker-color: 150deg;
 }
 
 
